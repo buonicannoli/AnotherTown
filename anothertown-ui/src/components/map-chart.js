@@ -1,11 +1,26 @@
 
 import Plotly from 'plotly.js';
 import React from 'react';
-import '../css/map-styles.css';
+import '../scss/map-styles.scss';
 
 class MapChart extends React.Component{
+    constructor(props){
+        super(props);  
+        this.state = {
+            chart_title: 'Top 10 US Cities'
+        }
+   }  
+
+   componentDidMount = () =>{
+       this.renderMap()
+   }
+
 
     renderMap = () => {
+        const {
+            chart_title
+        } = this.state;
+
         Plotly.d3.csv('https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv', function(err, rows){
             function unpack(rows, key) {
                 return rows.map(function(row) { return row[key]; });
@@ -24,10 +39,6 @@ class MapChart extends React.Component{
                     [0.4, 'rgb(188,189,220)'], [0.6, 'rgb(158,154,200)'],
                     [0.8, 'rgb(117,107,177)'], [1, 'rgb(84,39,143)']
                 ],
-                colorbar: {
-                    title: 'Millions USD',
-                    thickness: 0.2
-                },
                 marker: {
                     line:{
                         color: 'rgb(255,255,255)',
@@ -38,7 +49,7 @@ class MapChart extends React.Component{
         
         
             var layout = {
-                title: 'Temporary title for temporary graph',
+                title: chart_title,
                 geo:{
                     scope: 'usa',
                     showlakes: true,
@@ -52,8 +63,6 @@ class MapChart extends React.Component{
     }
     
     render = () => {
-        this.renderMap()
-    
         return <div className='map-container' id='myDiv'/>
     }
     
