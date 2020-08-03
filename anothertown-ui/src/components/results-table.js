@@ -28,24 +28,22 @@ class ResultsTable extends React.Component{
     //     this.setState({wikiInfo: nextProps.wikiInfo})
     // }
 
-    getRows = () => {
-        const locations = ['Boston', 'Dallas', 'Richmond', 'Seattle', 'Tampa', 'Omaha', 'Burlington', 'Bend', 'Boulder', 'Ann Arbor']
+    getRows = (wikiInfo) => {
 
-        return locations.map( (location, count) => {
+        return wikiInfo ? wikiInfo.map( (info, count) => {
             return <ListGroup.Item action href={`#link${count}`} key={`list-group-${count}`}>
-            {`${count + 1}: ${location}`}
+            {`${info.id}: ${info.title}`}
             </ListGroup.Item>
-        })
+        }) : null
     }
 
     getPanes = (wikiInfo) => {
-        const locations = ['Boston', 'Dallas', 'Richmond', 'Seattle', 'Tampa', 'Omaha', 'Burlington', 'Bend', 'Boulder', 'Ann Arbor']
+        return wikiInfo ? wikiInfo.map( (info, count) => {
 
-        return locations.map( (location, count) => {
             return <Tab.Pane eventKey={`#link${count}`} key={`tab-pane-${count}`}>
-                {`${location} --  ${wikiInfo ? wikiInfo[count] : null}`}
+                {`${info.title} --  ${info? info.description : null}`}
             </Tab.Pane>
-        })
+        }) : null
     }
 
 
@@ -58,7 +56,7 @@ class ResultsTable extends React.Component{
             <Row>
                 <Col sm={4}>
                 <ListGroup>
-                    {this.getRows()}
+                    {this.getRows(wikiInfo)}
                 </ListGroup>
                 </Col>
                 <Col sm={8}>

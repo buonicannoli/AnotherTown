@@ -1,28 +1,32 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import MapChart from './map-chart';
-// import Button from 'react-bootstrap/Button';
 import ResultsTable from './results-table';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import {useSelector} from 'react-redux';
 
-class Results extends React.Component{
+function Results(props){
+    const counter = useSelector(state => state.counter)
+    const [wikiInfo] = useState('temp')
+    useEffect(() => {
+        console.log(props)
 
+    }, props.wikiInfo)
 
-
-    render = () => {
         return <div>
         <div className='map-list-row'>
             <MapChart/>
             <div className="results-column">
                 {/* <Button variant="outline-secondary">Test</Button> */}
                 <ResultsTable
-                    wikiInfo={this.props.wikiInfo}
+                    wikiInfo={props.wikiInfo}
                 />
+                <p>Counter {counter}</p>
             </div>
         </div>
         <div></div>
         </div>
         
-    }
 }
+
 
 export default Results;

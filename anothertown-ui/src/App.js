@@ -25,31 +25,31 @@ class App extends React.Component {
       wikiInfo: null,
     });
 
-    axios.all(
-      terms.map(term => {
-        return axios.get(`https://en.wikipedia.org/api/rest_v1/page/summary/${term}`)
-      })
-    ).then( responseArr => {
-      this.setState({
-        wikiInfo: responseArr.map(response => {
-          return response.data.extract;
-        }),
-        wikiLoad: false,
-      })
-    }
-    ).catch(response => {
-        this.setState({
-          wikiLoad: false,
-          WikiError: true,
-        })
-      })
-
-    // axios.get(`https://en.wikipedia.org/api/rest_v1/page/summary/${"Burlington_Vermont"}`)
-    // .then(response=>
+    // axios.all(
+    //   terms.map(term => {
+    //     return axios.get(`https://en.wikipedia.org/api/rest_v1/page/summary/${term}`)
+    //   })
+    // ).then( responseArr => {
     //   this.setState({
-    //         wikiInfo: [response.data.extract],
-    //       })
-    // )
+    //     wikiInfo: responseArr.map(response => {
+    //       return response.data.extract;
+    //     }),
+    //     wikiLoad: false,
+    //   })
+    // }
+    // ).catch(response => {
+    //     this.setState({
+    //       wikiLoad: false,
+    //       WikiError: true,
+    //     })
+    //   })
+
+    axios.get(`http://127.0.0.1:8000/api/tutorial/`)
+    .then(response=>
+      this.setState({
+            wikiInfo: response.data,
+          })
+    )
   };
   
 
