@@ -1,0 +1,59 @@
+city profiles:
+
+- health / fitness
+	-obesity
+	-nutrition
+	-food desert
+	-life expectancy
+	-pollution / clean water
+	-medical access
+	-access to gyms
+- education
+	-quality of schools
+	-high school dropout rate
+	-college graduate rate
+- politics
+	-presidential vote differential / trend
+	-proportion of red/blue representation in congress / local
+	-religion
+	-weed
+	-gay rights
+	-sustainable
+- safety
+	-crime
+	-drug use
+- economy
+	-infrastructure investment
+	-job opportunities
+	-median salaries
+	-population trend
+	-poverty / homelessness
+- entertainment
+	-food scene?
+	-bars/ clubs
+	-muesums / theaters
+	-parks
+	-age demographics
+	-festivals
+- cost of living
+	-home prices
+	-household income
+- environment
+	-climate/ weather
+	-scenery
+	-outdoor recreation
+	-type: beach, plain, mountain, desert...
+- transportation
+	-traffic congestion 
+	-public transport
+	-walkability / bikability
+- demographics
+	- age
+	- diversity
+	- population
+
+
+
+https://wallethub.com/edu/happiest-places-to-live/32619/
+https://www.niche.com/about/methodology/best-counties/
+	

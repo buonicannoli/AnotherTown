@@ -1,0 +1,28 @@
+https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
+co-est2019-annres
+Annual Estimates of the Resident Population for Counties: April 1, 2010 to July 1, 2019
+Cumulative Estimates of Resident Population Change for Counties and County Rankings: April 1, 2010 to July 1, 2019
+Estimates of Resident Population Change for Counties and County Rankings: July 1, 2018 to July 1, 2019
+Estimates of the Components of Resident Population Change for Counties: April 1, 2010 to July 1, 2019
+__________
+
+https://www.census.gov/data/datasets/2018/demo/saipe/2018-state-and-county.html
+est18all
+SAIPE State and County Estimates for 2018
+available from 1989
+_______________
+
+DataDownload2015
+https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
+food desert data
+https://www.ers.usda.gov/data-products/food-consumption-and-nutrient-intakes/
+_________________
+natamenf_1_
+https://www.ers.usda.gov/data-products/natural-amenities-scale.aspx
+natural amenities index
+https://www.washingtonpost.com/news/wonk/wp/2015/08/17/every-county-in-america-ranked-by-natural-beauty/
+_______________________
+
+https://docs.gaslamp.media/download-zip-code-latitude-longitude-city-state-county-csv/
+zipcode csv
+_____________

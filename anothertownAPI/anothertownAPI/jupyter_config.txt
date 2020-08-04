@@ -1,0 +1,1 @@
+mysql+pymysql://dbadmin:123456@localhost:3306/testdb
