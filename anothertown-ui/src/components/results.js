@@ -20,7 +20,6 @@ function Results(props){
                 <ResultsTable
                     wikiInfo={props.wikiInfo}
                 />
-                <p>Counter {counter}</p>
             </div>
         </div>
         <div></div>

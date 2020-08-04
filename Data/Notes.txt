@@ -50,7 +50,10 @@ city profiles:
 - demographics
 	- age
 	- diversity
+	- population
 
 
+
+https://wallethub.com/edu/happiest-places-to-live/32619/
 https://www.niche.com/about/methodology/best-counties/
 	

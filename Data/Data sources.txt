@@ -23,3 +23,6 @@ natural amenities index
 https://www.washingtonpost.com/news/wonk/wp/2015/08/17/every-county-in-america-ranked-by-natural-beauty/
 _______________________
 
+https://docs.gaslamp.media/download-zip-code-latitude-longitude-city-state-county-csv/
+zipcode csv
+_____________
