@@ -8,7 +8,7 @@ __________
 
 https://www.census.gov/data/datasets/2018/demo/saipe/2018-state-and-county.html
 est18all
-SAIPE State and County Estimates for 2018
+SAIPE State and County Estimates for 2018 small area income and poverty estimates
 available from 1989
 _______________
 
@@ -26,3 +26,11 @@ _______________________
 https://docs.gaslamp.media/download-zip-code-latitude-longitude-city-state-county-csv/
 zipcode csv
 _____________
+life expectancy obesity physical activity
+Copy of IHME_county_data_LifeExpectancy_Obesity_PhysicalActivity_NATIONAL
+http://www.healthdata.org/us-health/data-download
+_________________
+Air Quality
+Copy of ctyfactbook2019
+https://www.epa.gov/air-trends/air-quality-cities-and-counties
+_____________________
