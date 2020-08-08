@@ -1,17 +1,18 @@
 city profiles:
 
 - health / fitness
-	-obesity
+	x obesity
 	-nutrition
-	-food desert
-	-life expectancy
-	-pollution / clean water
-	-medical access
-	-access to gyms
+	x food desert
+	x life expectancy
+	x pollution 
+	- clean water
+	- medical access
+	- access to gyms
 - education
 	-quality of schools
-	-high school dropout rate
-	-college graduate rate
+	x high school dropout rate
+	x educational attainment
 - politics
 	-presidential vote differential / trend
 	-proportion of red/blue representation in congress / local
@@ -25,6 +26,7 @@ city profiles:
 - economy
 	-infrastructure investment
 	-job opportunities
+	-employment
 	-median salaries
 	-population trend
 	-poverty / homelessness
