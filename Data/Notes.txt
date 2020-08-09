@@ -6,8 +6,8 @@ city profiles:
 	x food desert
 	x life expectancy
 	x pollution 
-	- clean water
-	- medical access
+	v clean water
+	x uninsured
 	- access to gyms
 - education
 	-quality of schools
