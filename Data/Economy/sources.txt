@@ -1,0 +1,16 @@
+https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness-2020/
+regular_map_full_data_data.csv
+State of Homelessness: 2020 Edition
+________________
+https://www.bls.gov/cew/downloadable-data-files.htm
+Quarterly Census of Employment and Wages
+2019.q1-q4.singlefile
+2019.q1-q4.by_industry
+2019_all_county_high_level
+2019_qtrly_by_area
+_____________
+https://www.bls.gov/lau/
+laucntycur14
+Local Area Unemployment Statistics
+laucnty19 <- use
+___________________
