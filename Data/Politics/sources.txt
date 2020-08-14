@@ -1,0 +1,12 @@
+https://public.opendatasoft.com/explore/dataset/usa-2016-presidential-election-by-county/export/?disjunctive.state&sort=dem16_frac
+USA 2016 Presidential by county
+usa-2016-presidential-election-by-county
+
+https://hub.arcgis.com/datasets/ee99080134bc402c80642c0c0e374d57_0
+116th Congressional Districts
+
+https://data.world/garyhoov/us-religion-by-county
+US Religion by County
+
+https://wallethub.com/edu/greenest-states/11987/
+most environmentally friendly states
