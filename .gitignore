@@ -1,3 +1,11 @@
-
+*.csv
+*.zip
+*.pdf
 anothertownAPI/anothertownAPI/settings.py
 anothertownAPI/jupyter_config.txt
+Data/Economy/2019_all_county_high_level/allhlcn19.xlsx
+Data/Economy/2019_all_county_high_level/allhlcn191.xlsx
+Data/Economy/2019_all_county_high_level/allhlcn192.xlsx
+Data/Economy/2019_all_county_high_level/allhlcn193.xlsx
+Data/Economy/2019_all_county_high_level/allhlcn194.xlsx
+Data/Economy/laucnty19.xlsx

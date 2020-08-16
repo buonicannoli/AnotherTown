@@ -43,3 +43,13 @@ ACSST5Y2018.S1501_data_with_overlays_2020-08-08T014101
 educational attaiment
 https://data.census.gov/cedsci/table?t=Educational%20Attainment&layer=VT_2018_050_00_PY_D1&cid=S1501_C01_001E&tid=ACSST5Y2018.S1501&g=0100000US.050000&vintage=2018&hidePreview=false
 ________________________
+https://www.epa.gov/toxics-release-inventory-tri-program/2019-tri-preliminary-dataset-basic-data-files
+drinking water quality
+
+state ranked air / water
+https://www.usnews.com/news/best-states/rankings/natural-environment/air-water-quality
+_________________
+uninsured
+https://data.census.gov/cedsci/table?g=0100000US.050000&t=Health%20Insurance&tid=ACSST5Y2018.S2704&hidePreview=false&vintage=2018&layer=VT_2018_050_00_PY_D1&cid=S2704_C01_001E
+health_insurance
+_________________________

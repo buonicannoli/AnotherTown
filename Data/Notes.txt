@@ -9,10 +9,11 @@ city profiles:
 	v clean water
 	x uninsured
 	- access to gyms
+	- life expectancy
 - education
-	-quality of schools
-	x high school dropout rate
-	x educational attainment
+	- quality of schools
+	xxx high school dropout rate
+	xxx educational attainment
 - politics
 	-presidential vote differential / trend
 	-proportion of red/blue representation in congress / local
@@ -21,29 +22,33 @@ city profiles:
 	-gay rights
 	-sustainable
 - safety
-	-crime
-	-drug use
+	- crime
+	x drug and alcohol abuse 
 - economy
-	-infrastructure investment
+	v State Infrastructure Facts infrastructure investment
 	-job opportunities
 	-employment
-	-median salaries
-	-population trend
-	-poverty / homelessness
+	xxx median salaries
+	xxx poverty 
+	vhomelessness
 - entertainment
 	-food scene?
 	-bars/ clubs
-	-muesums / theaters
+	-muesums/ theaters
 	-parks
 	-age demographics
 	-festivals
 - cost of living
-	-home prices
-	-household income
+	xxx home prices
+	- $ / sqft
+	xxx household income
+	- taxes
+	- utilities
 - environment
 	-climate/ weather
 	-scenery
 	-outdoor recreation
+	-parks access
 	-type: beach, plain, mountain, desert...
 - transportation
 	-traffic congestion 
@@ -52,7 +57,8 @@ city profiles:
 - demographics
 	- age
 	- diversity
-	- population
+	xxx population
+	
 
 
 
