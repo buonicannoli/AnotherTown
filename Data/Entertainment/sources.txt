@@ -1,0 +1,10 @@
+https://www.icpsr.umich.edu/web/NADAC/studies/36984/versions/V1/datasets/1/download/xls?path=/pcms/studies/0/3/6/9/36984/V1/datasets/1
+NADAC national archive of data on arts and culture
+Local Arts Index (LAI), United States, 2009-2015 (ICPSR 36984)
+
+https://data.bls.gov/cew/apps/table_maker/v4/table_maker.htm#type=1&year=2019&qtr=4&own=5&ind=7224&supp=0
+US BLS
+https://data.bls.gov/cew/apps/data_views/data_views.htm#tab=Tables
+Quarterly Census of Employment and Wages
+PRINT:Print
+QCEW HOME QCEW PROGRAM HOMEPAGE

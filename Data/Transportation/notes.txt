@@ -2,3 +2,6 @@ https://www.countyhealthrankings.org/app/arkansas/2020/measure/factors/137/map
 Long commute - driving alone
 
 a lot of data  but separated by state
+
+walk and bike score by state by city:
+https://www.walkscore.com/cities-and-neighborhoods/states/

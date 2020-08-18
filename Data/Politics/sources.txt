@@ -10,3 +10,9 @@ US Religion by County
 
 https://wallethub.com/edu/greenest-states/11987/
 most environmentally friendly states
+
+BLS religious establishements
+https://data.bls.gov/cew/apps/table_maker/v4/table_maker.htm#type=1&year=2018&qtr=A&own=5&ind=8131&supp=0
+
+Private, NAICS 8131 Religious organizations, All Counties
+2018 Annual Averages, All establishment sizes
