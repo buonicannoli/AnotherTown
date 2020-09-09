@@ -11,3 +11,7 @@ state utilites?
 https://www.realtor.com/research/data/
 Inventory Monthly
 price / sqft
+
+House Price Index Datasets
+https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx#qat
+Annual House Price Indexes (see Working Papers 16-01, 16-02, and 16-04) 
